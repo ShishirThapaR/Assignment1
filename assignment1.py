@@ -4,7 +4,7 @@ write a python script that print your name , course name , and the python versio
 # importing the sys module
 import sys
 # This line assigns the string value "Pulkit Pandey" to the variable my_name
-my_name = "Arpita Panigrahi" 
+my_name = "Shishir Thapa" 
 # This line assigns the string value "python programming" to the variable course_name
 course_name = "python programming"
 #nting Name:,Course:   using the f-string
